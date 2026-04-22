@@ -1,5 +1,5 @@
 # Triple-T-Sales-Analysis
-A Power BI sales analytics solution for a multi-location retail chain identifying top and bottom performing products, category revenue contribution, regional sales gaps, and customer purchase patterns to support smarter inventory and commercial decisions.
+An Excel sales analytics solution for a multi-location retail chain identifying top and bottom performing products, category revenue contribution, regional sales gaps, and customer purchase patterns to support smarter inventory and commercial decisions.
 
 ---
 
