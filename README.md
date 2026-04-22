@@ -80,15 +80,9 @@ A honest note: This project was built at the early stage of my career as a data 
 
 ---
 
-## Documentation 
+## Dashboard Visualization and Analysis walkthrough
 
-[**View pbix, pdf snapshot excel and docs file**](https://drive.google.com/drive/folders/1CWMbq_VHrZrbCbi84xGwfd3wk5qfgVOB?usp=drive_link)
-
----
-
-## Dashboard Visualization
-
-[**View the dashboard screenshot here**](https://drive.google.com/file/d/1P77EDyaY63hKBllzSW2Fwl0b9eXtB_3y/view?usp=drive_link)
+[**View the data, modeling, calculations and dashboard screenshot here**](https://docs.google.com/spreadsheets/d/1C7b7F-p1C5zJqhZ2h22QJ7NPq8rH13Ub/edit?usp=drive_link&ouid=112288732127302670660&rtpof=true&sd=true)
 
 ---
 ## 🤝 Connect & Feedback
